@@ -1,6 +1,5 @@
-**CS 725 - Homework 6**
-
 **Eric Diep**
+**CS 725 - Homework 6**
 
 **Initial Findings**
  - ~~In Bayview facility,~~ When interview type is 'Merit Time', interview decision was usually 'Open Date'.
@@ -25,6 +24,8 @@
 In New York State, when prisoners are eligible for parole, they appear in fron of the Parole Board. More often than not, they are denied parole with little reason. To understand the how the board operates, we will be exploring the parole dataset. The dataset contains over 30,000 records from the Parole Board's website. Our goal is to explore the dataset to identify trends, outliers, correlations, and the like. With this we will be able to present useful informaiton in how the board operates.
 
 # Findings
+
+# Conclusion
 
 # References
  - [New York State's Department of Corrections and Community Supervision Offender Information Data Defintions](http://www.doccs.ny.gov/calendardatadefinitions.html)
