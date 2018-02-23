@@ -1,23 +1,22 @@
-**Eric Diep**
-**CS 725 - Homework 6**
+**Eric Diep, CS 725 - Homework 6**
 
 **Initial Findings**
  - ~~In Bayview facility,~~ When interview type is 'Merit Time', interview decision was usually 'Open Date'.
- - ~~In Bayview facility,~~ For initial interview, decision is either denied or postponment for the majority of the time.
- - Majority of the time, if interview type is either ECPDO or DEPORT, decicision is usually granted.
-    - One case where interview type is PIE, and decision was granted. Granted meant CPDO granted.
-    - 124 records where ethnicity is Hispanic the decision is granted   
- - Overwhelmingly, if interview type is PIE, decision usually denied or postponement.
- - 2 female facility (Taconic-female, and bedford hills) had more inmates on parole. 1 male facility, Lincoln, had the most inmates on parole.
- - Surprising amount of inmates with interview type PV REAPP has decision paroled.
+ - ~~In Bayview facility,~~ For initial interview, decision is either denied or postponment for the majority of the time. **Start with this**
  - Surprising amount of inital appearance has denied decision, 8053; there are 2117 records where decision is OR EARLIER for initial appearance.
     - This means it is not uncommon for an inmate to reappear before the board multiple times. 
+ - Majority of the time, if interview type is either ECPDO or DEPORT, decicision is usually granted.
+    - One case where interview type is PIE, and decision was granted. Granted meant CPDO granted.
+    - 124 records where ethnicity is Hispanic the decision is granted **Really want this share this information**
+ - Overwhelmingly, if interview type is PIE, decision usually denied or postponement.
+ - 2 female facility (Taconic-female, and bedford hills) had more inmates on parole. 1 male facility, Lincoln, had the most inmates on parole. **Want to share this**
+ - Surprising amount of inmates with interview type PV REAPP has decision paroled. **This was interesting**
  - Even for reappearance type, there are 4471 denied decision.
  - For inmates that meets criteria for MERIT TIME, they are generally not granted.
- - Does merit time lead to either paroled or open date?
+ - **Does merit time lead to either paroled or open date?**
  - Even if an inmate is eligible for parole immediately, their hearing decision is either deined or postponed
- - 24 out of 59 male facilites had interviews where decision is paroled; 54 out of 59 male facilities had interviews where decision is open date
- - 6 out of 8 female facilities had interviews where decision is paroled; 8 out of 8 female facilities had interviews where decision is open date
+ - 24 out of 59 male facilites had interviews where decision is paroled; 54 out of 59 male facilities had interviews where decision is open date **Want to share this**
+ - 6 out of 8 female facilities had interviews where decision is paroled; 8 out of 8 female facilities had interviews where decision is open date **Want to share this**
 
 # Introduction
 
