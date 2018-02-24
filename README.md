@@ -31,9 +31,11 @@ In New York State, when prisoners are eligible for parole, they appear in fron o
 
 3. what is the common interview outcome (excluding denied, postponement) for each ethnicity (besides black and white)? The most common interview outcome for other ethnic group is 'NOT GRANTED'. 'NOT GRANTED' outcome in the data set was usually the outcome for interview type 'MERIT TIME' or 'SUPP MERIT' - define these interview type.
 ![alt text](Breakdown_Interivew_By_Ethnicity.PNG)
-4. Of all ethnicities, how many awarded merit time?
 
-5. In the first chart there were records of interviews that ended with the decision of 'PAROLED'. I was curious about the number of interviews which ended with 'PAROLED' decision by gender and facility. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 6 out of 8 female facilities had interviews where decision is paroled. 2 female facility (Taconic-female, and bedford hills) had more female offenders on parole. 1 male facility, Lincoln, had the most male offenders on parole.
+4. Of all ethnicities, how many awarded merit time? For offenders that exhibit good behaviors, there is a possibility of granting them merit. In the chart below, we see that the most common decision for offenders on merit time is 'OPEN DATE'. This means they will be on parole at the earliest date. It is also interesting to note that it is possible for an offender to go from merit time to parole.
+![alt text](Merit_Time_Decision.PNG)
+
+5. Seeing that it is possible to be granted parole when an offender is granted merit time. I wanted to see which facility had interviews where the result was granting parole. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 6 out of 8 female facilities had interviews where decision is paroled. 2 female facility (Taconic-female, and bedford hills) had more female offenders on parole. 1 male facility, Lincoln, had the most male offenders on parole.
 ![alt text](Paroled_By_Facility.PNG)
 
 
