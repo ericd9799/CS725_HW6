@@ -32,10 +32,10 @@ In New York State, when prisoners are eligible for parole, they appear in fron o
 3. *UNSURE ABOUT KEEPING* Looking at the interview decision for all types of interview for other enthnicities aside from black and white, I was surprised to see the interview decision 'GRANTED' to be overwhemlingly more for offenders of Hispanic ethnicity than other enthnicities. 'GRANTED' decision is defined as offenders are granted conditional parole for deportation only. The chart below presents a breakdown of ethnicities where their interview ended with a decision of 'GRANTED' by the Parole Board. As shown in the chart, 63% of interviews for offenders of Hispanic ethnicity ends with an interview decision of 'GRANTED'. This means they are allowed parole, but on the condition of deportation. 
 ![alt text](Breakdown_Granted.PNG)
 
-5. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 54 out of 59 male facilities had interviews where decision is open date; 6 out of 8 female facilities had interviews where decision is paroled; 8 out of 8 female facilities had interviews where decision is open date
-
-6. 2 female facility (Taconic-female, and bedford hills) had more inmates on parole. 1 male facility, Lincoln, had the most inmates on parole.
+5. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 6 out of 8 female facilities had interviews where decision is paroled. 2 female facility (Taconic-female, and bedford hills) had more female offenders on parole. 1 male facility, Lincoln, had the most male offenders on parole.
 ![alt text](Paroled_By_Facility.PNG)
+
+7. 54 out of 59 male facilities had interviews where decision is open date; 8 out of 8 female facilities had interviews where decision is open date
 
 # Conclusion
 
