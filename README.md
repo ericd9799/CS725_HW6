@@ -29,9 +29,9 @@ In New York State, when prisoners are eligible for parole, they appear in fron o
 2. In the chart above, it was surprising to see the interview decision "OPEN DATE" having 1,874 recorded occurrences. "OPEN DATE" means the offender will be on parole at the earliest date. I was curious at the breakdown of the offenders where their initial interview received an "OPEN DATE" decision. The chart below presents the number of initial interviews where they ended with the Board's decision of 'OPEN DATE'. The breakdown is by gender and ethnicity. As shown, black and white enthnicities lead in both male and female category. This made me wonder what interview decision is common for each ethinic group.
 ![alt text](Breakdown_Initial_Interview_Open_Date.PNG)
 
-3. what is the common interview outcome (excluding denied, postponement) for each ethnicity (besides black and white)?
+3. what is the common interview outcome (excluding denied, postponement) for each ethnicity (besides black and white)? The most common interview outcome for other ethnic group is 'NOT GRANTED'. 'NOT GRANTED' outcome in the data set was usually the outcome for interview type 'MERIT TIME' or 'SUPP MERIT' - define these interview type.
 ![alt text](Breakdown_Interivew_By_Ethnicity.PNG)
-4. what is the average number of interviews per ethnic group?
+4. Of all ethnicities, how many awarded merit time?
 
 5. In the first chart there were records of interviews that ended with the decision of 'PAROLED'. I was curious about the number of interviews which ended with 'PAROLED' decision by gender and facility. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 6 out of 8 female facilities had interviews where decision is paroled. 2 female facility (Taconic-female, and bedford hills) had more female offenders on parole. 1 male facility, Lincoln, had the most male offenders on parole.
 ![alt text](Paroled_By_Facility.PNG)
