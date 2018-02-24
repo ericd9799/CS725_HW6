@@ -30,6 +30,7 @@ In New York State, when prisoners are eligible for parole, they appear in fron o
 ![alt text](Breakdown_Initial_Interview_Open_Date.PNG)
 
 3. what is the common interview outcome (excluding denied, postponement) for each ethnicity (besides black and white)?
+![alt text](Breakdown_Interivew_By_Ethnicity.PNG)
 4. what is the average number of interviews per ethnic group?
 
 5. In the first chart there were records of interviews that ended with the decision of 'PAROLED'. I was curious about the number of interviews which ended with 'PAROLED' decision by gender and facility. Besides an interview decision of 'OPEN DATE', an interview can lead to a decision of 'PAROLED'. This decision means that the offenders parole date is straight forward. 24 out of 59 male facilites had interviews where decision is paroled; 6 out of 8 female facilities had interviews where decision is paroled. 2 female facility (Taconic-female, and bedford hills) had more female offenders on parole. 1 male facility, Lincoln, had the most male offenders on parole.
