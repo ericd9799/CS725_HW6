@@ -24,6 +24,7 @@ In New York State, when offenders are eligible for parole, they appear in front 
 After my analysis, I found that it is not uncommon for an offender to appear before the Parole Board more than once. There are possibilites where the offender may be only appear before the Board once, but that is rare. I also noticed that the make up of offenders appearing before the Parole Board is of black or white ethnicity. I am curious if this is because there are less offenders of other ethnicity in prison, or if they are not eligible for parole. An intesting point to bring up is that there are 2 female facilites, and 1 male facility with the most offenders on parole. An assumption would be these facilities have good parole programs.
 
 # References
+ - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [New York State's Department of Corrections and Community Supervision Offender Information Data Defintions](http://www.doccs.ny.gov/calendardatadefinitions.html)
  - [New York State's Parole Handbook](http://www.doccs.ny.gov/Parole_Handbook.html) 
  - [Parole Dataset](https://drive.google.com/file/d/0B-9uY9BLNUVFRHB0T3ZLMjNadnM/view)
