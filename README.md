@@ -25,5 +25,6 @@ After my analysis, I found that it is not uncommon for an offender to appear bef
 
 # References
  - [New York State's Department of Corrections and Community Supervision Offender Information Data Defintions](http://www.doccs.ny.gov/calendardatadefinitions.html)
- - [Parole Dataset](http://www.cs.odu.edu/~mweigle/CS725-S18/HW6)
- - [New York State's Parole Handbook](http://www.doccs.ny.gov/Parole_Handbook.html)
+ - [New York State's Parole Handbook](http://www.doccs.ny.gov/Parole_Handbook.html) 
+ - [Parole Dataset](https://drive.google.com/file/d/0B-9uY9BLNUVFRHB0T3ZLMjNadnM/view)
+ 
